@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHUD_QnA_Bot", "MHUD_QnA_Bot\MHUD_QnA_Bot\MHUD_QnA_Bot.csproj", "{238AC0CB-FA00-4F51-B98B-07329E40FA6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHUD_QnA_Bot.Tests", "MHUD_QnA_Bot\MHUD_QnA_Bot.Tests\MHUD_QnA_Bot.Tests.csproj", "{5721E02D-215B-4913-B779-38DC8B2F95FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{238AC0CB-FA00-4F51-B98B-07329E40FA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238AC0CB-FA00-4F51-B98B-07329E40FA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238AC0CB-FA00-4F51-B98B-07329E40FA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238AC0CB-FA00-4F51-B98B-07329E40FA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5721E02D-215B-4913-B779-38DC8B2F95FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5721E02D-215B-4913-B779-38DC8B2F95FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5721E02D-215B-4913-B779-38DC8B2F95FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5721E02D-215B-4913-B779-38DC8B2F95FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32018D3D-2BBF-4280-9F3F-133A7F565E0D}
+	EndGlobalSection
+EndGlobal
